@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This project name is Calculator. I made this project using html,css and javascript where we calculate some mathematical problems.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to create something.",
+    "skills": ["React", "Node", "Express", "MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to create something.",
+    "skills": ["React", "Node", "Express"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
