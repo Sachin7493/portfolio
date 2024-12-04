@@ -8,18 +8,34 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Foody-App",
     "imageSrc": "projects/project.png",
     "description": "This is a project to create something.",
-    "skills": ["React", "Node", "Express", "MongoDb"],
+    "skills": ["React", "JavaScript", "NodeJS", "Express", "MongoDb"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Portfolio with email functionality",
     "imageSrc": "projects/project.png",
     "description": "This is a project to create something.",
-    "skills": ["React", "Node", "Express"],
+    "skills": ["HTML", "CSS", "JavaScript", "NodeJS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to create something.",
+    "skills": ["React", "HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "TODO",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to create something.",
+    "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

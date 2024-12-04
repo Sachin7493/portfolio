@@ -40,6 +40,18 @@ const About = () => {
               <p>I have designed multiple landing pages.</p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/uiIcon.png")} alt="problem icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Problem-Solver</h3>
+              <p>
+                I am a passionate problem-solver with a strong foundation in
+                programming and full-stack development, I thrive on tackling
+                technical problems, optimizing processes, and creating
+                user-centric applications.{" "}
+              </p>
+            </div>
+          </li>
         </ul>
       </div>
     </section>
